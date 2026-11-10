@@ -18,12 +18,6 @@ Instagram'daki [@yapayduck.ai](https://instagram.com/yapayduck.ai) hesabı için
 | [YouTube Kanalı için 8 Gemini Promptu](prompts/youtube-kanali-icin-8-gemini-promptu.md) | Kanal makeover, bio optimizasyonu, playlist yapısı, banner, CTR audit, keyword mimarisi, pinned comment funnel |
 | [AI Brand Logo Reveal Promptu](prompts/logo-reveal-promptu.md) | Storefront referans + logo görselinden 7 sn cinematic logo reveal. Brand-specific malzeme dönüşümü, tek plan |
 
-### Reels (`reels/`)
-
-| Reel | Açıklama |
-|---|---|
-| [60 Saniyede 3 Repo](reels/mb-repos-reel.md) | Neo-brutalist tanıtım reelsi: 3 repo tanıtımı, YapaDuck maskot, Chatterbox VO + Newer Wave. Yapım pipeline'ı dahil |
-
 ### Rehberler (`guides/`)
 
 | Rehber | Açıklama |
@@ -31,11 +25,11 @@ Instagram'daki [@yapayduck.ai](https://instagram.com/yapayduck.ai) hesabı için
 | [Google Flow & Omni Flash ile 3D Tom & Jerry Workflow](guides/google-flow-omni-flash-tom-jerry-workflow.md) | Kendi yüzünle Tom & Jerry (veya başka karakter) videosu: Nano Banana Pro ile başlangıç görseli → Omni Flash ile animasyon. Karakter özelleştirme tablosu dahil |
 | [Video AI Araçları](guides/video-ai-araclari.md) | OpenMontage, MoneyPrinterTurbo, HyperFrames, Wan2.1 — hangi araç ne için |
 
-### Takipçi Paylaşımları (`verilenler/`)
+### Kaynaklar (`kaynaklar/`)
 
 | Dosya | Açıklama |
 |---|---|
-| [Yorum Repo Listesi](verilenler/yorum-repo-listesi.md) | "60 Saniyede 3 Repo" reelsinde vadedilen tam liste: videodaki 3 + bonus 3 repo |
+| [Ücretsiz Kaynak Repoları](kaynaklar/ucretsiz-kaynak-repolari.md) | Takipçilerle paylaşılan liste: 3 video reposu + 3 bonus repo, yıldız sayıları ve kullanım amacıyla |
 
 ### Kurulum
 
