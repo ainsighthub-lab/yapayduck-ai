@@ -31,6 +31,12 @@ Instagram'daki [@yapayduck.ai](https://instagram.com/yapayduck.ai) hesabı için
 | [Google Flow & Omni Flash ile 3D Tom & Jerry Workflow](guides/google-flow-omni-flash-tom-jerry-workflow.md) | Kendi yüzünle Tom & Jerry (veya başka karakter) videosu: Nano Banana Pro ile başlangıç görseli → Omni Flash ile animasyon. Karakter özelleştirme tablosu dahil |
 | [Video AI Araçları](guides/video-ai-araclari.md) | OpenMontage, MoneyPrinterTurbo, HyperFrames, Wan2.1 — hangi araç ne için |
 
+### Takipçi Paylaşımları (`verilenler/`)
+
+| Dosya | Açıklama |
+|---|---|
+| [Yorum Repo Listesi](verilenler/yorum-repo-listesi.md) | "60 Saniyede 3 Repo" reelsinde vadedilen tam liste: videodaki 3 + bonus 3 repo |
+
 ### Kurulum
 
 | Dosya | Açıklama |
