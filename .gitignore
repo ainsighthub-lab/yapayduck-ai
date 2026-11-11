@@ -1,0 +1,14 @@
+# Tarama çıktıları — işletme iletişim verisi içerir, repoya girmez
+leads.csv
+leads*.csv
+siteler/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

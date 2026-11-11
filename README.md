@@ -22,8 +22,17 @@ Instagram'daki [@yapayduck.ai](https://instagram.com/yapayduck.ai) hesabı için
 
 | Rehber | Açıklama |
 |---|---|
+| [Semt Avcısı — Kendi Semtinde Site Satma Rehberi](guides/semt-avcisi-rehber.md) | Reel'deki sistemin gerçek kurulumu: sitesi olmayan esnafı bul → satış şansına göre puanla → tek komutla site kur → kapıya git. Çalışan Python script + HTML şablon + fiyatlandırma + KVKK sınırları |
 | [Google Flow & Omni Flash ile 3D Tom & Jerry Workflow](guides/google-flow-omni-flash-tom-jerry-workflow.md) | Kendi yüzünle Tom & Jerry (veya başka karakter) videosu: Nano Banana Pro ile başlangıç görseli → Omni Flash ile animasyon. Karakter özelleştirme tablosu dahil |
 | [Video AI Araçları](guides/video-ai-araclari.md) | OpenMontage, MoneyPrinterTurbo, HyperFrames, Wan2.1 — hangi araç ne için |
+
+### Araçlar (`scripts/`, `sablonlar/`)
+
+| Dosya | Açıklama |
+|---|---|
+| [`scripts/semt_avci.py`](scripts/semt_avci.py) | Sitesi olmayan yerel esnafı bulur (OpenStreetMap ücretsiz / Google Places ücretli), satış şansına göre puanlar, sektöre özel site üretir. Sıfır bağımlılık, tek dosya |
+| [`sablonlar/taban.html`](sablonlar/taban.html) | Üretilen sitenin iskeleti: mobil öncelikli, tek dosya, JS yok, `tel:` linkli |
+| [`sablonlar/temalar.json`](sablonlar/temalar.json) | Sektör teması: renk, başlık, slogan, hizmet kartları |
 
 ### Kaynaklar (`kaynaklar/`)
 

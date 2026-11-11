@@ -1,0 +1,121 @@
+{
+  "_varsayilan": {
+    "sektorler": [],
+    "renk": "#FFC61E",
+    "renk2": "#111111",
+    "zemin": "#fafafa",
+    "slogan": "Kaliteli hizmet, dürüst fiyat.",
+    "baslik": "{{AD}} — {{SEMT}}",
+    "alt": "{{SEMT}} içinde, adresine yürüme mesafesinde. Randevu için telefon yeter.",
+    "cta": "Hemen ara",
+    "hizmetler": [
+      ["Hizmet", "İhtiyacına göre planlanır.", "✦"],
+      ["Danışma", "Kısa görüşme, net fiyat.", "◆"],
+      ["Uygulama", "Aynı gün teslim.", "●"]
+    ]
+  },
+
+  "kuafor": {
+    "sektorler": ["Kuaför", "Güzellik Salonu"],
+    "renk": "#FFC61E",
+    "renk2": "#111111",
+    "zemin": "#fdfbf6",
+    "slogan": "Güzellik zaman ayırır. Randevunu şimdi al.",
+    "baslik": "{{AD}} — {{SEMT}} içinde saç ve bakım",
+    "alt": "{{AD}} — randevunu telefonla al, beklemeden gir. Saç kesimi, boya, bakım ve özel gün hazırlığı.",
+    "cta": "Randevu al",
+    "hizmetler": [
+      ["Saç kesimi", "Yüzüne göre kesim, yıkamalı.", "✂"],
+      ["Boya & röfle", "Balyaj, ombre, tek renk.", "◆"],
+      ["Bakım", "Keratin, botoks, kolajen.", "✦"],
+      ["Özel gün", "Gelin, nişan, mezuniyet.", "★"],
+      ["Cilt bakımı", "Temizlik, maske, nemlendirme.", "●"],
+      ["Tırnak", "Manikür, pedikür, kalıcı oje.", "▲"]
+    ]
+  },
+
+  "berber": {
+    "sektorler": ["Berber"],
+    "renk": "#FFC61E",
+    "renk2": "#1b2a1b",
+    "zemin": "#f8faf7",
+    "slogan": "Ustura işi, dededen kalma.",
+    "baslik": "{{AD}} — {{SEMT}} berberi",
+    "alt": "{{AD}} — saç, sakal ve cilt bakımı. Sıra beklemeden hallet.",
+    "cta": "Sıra al",
+    "hizmetler": [
+      ["Saç kesimi", "Makine + makas, yıkama dahil.", "✂"],
+      ["Sakal tıraşı", "Ustura, sıcak havlu.", "◆"],
+      ["Çocuk kesimi", "Sabırlı, hızlı.", "●"],
+      ["Cilt bakımı", "Yüz maske, siyah nokta.", "✦"]
+    ]
+  },
+
+  "kafe": {
+    "sektorler": ["Kafe", "Restoran", "Fast Food"],
+    "renk": "#FFC61E",
+    "renk2": "#4a2f18",
+    "zemin": "#fdfaf5",
+    "slogan": "Kahveni al, otur, kal.",
+    "baslik": "{{AD}} — {{SEMT}} içinde kahve",
+    "alt": "{{AD}} — günün her saatinde taze. Kahve, tatlı ve sıcak tabak. Paket de var.",
+    "cta": "Menüyü sor",
+    "hizmetler": [
+      ["Kahve", "Espresso, filtre, Türk.", "☕"],
+      ["Tatlı", "Günlük, ev yapımı.", "◆"],
+      ["Sıcak tabak", "Öğle menüsü.", "✦"],
+      ["Paket", "Telefonla sipariş, hazır.", "●"]
+    ]
+  },
+
+  "oto-yikama": {
+    "sektorler": ["Oto Yıkama", "Oto Tamir"],
+    "renk": "#FFC61E",
+    "renk2": "#0d2a3d",
+    "zemin": "#f7fafc",
+    "slogan": "Aracını bırak, işine dön. Hazır olunca ararız.",
+    "baslik": "{{AD}} — {{SEMT}} içinde oto bakım",
+    "alt": "{{AD}} — aracını yıkat, içini temizlet. Randevusuz kabul, işlem 40 dakika.",
+    "cta": "Fiyat al",
+    "hizmetler": [
+      ["Dış yıkama", "Köpük, durulama, kurulama.", "◆"],
+      ["İç temizlik", "Süpürme, detay, cam.", "✦"],
+      ["Detaylı bakım", "Pasta cila, motor yıkama.", "★"],
+      ["Lastik", "Basınç, hava, değişim.", "●"]
+    ]
+  },
+
+  "butik": {
+    "sektorler": ["Butik", "Ayakkabıcı", "Elektronik", "Mobilya", "Petshop", "Çiçekçi", "Kuyumcu"],
+    "renk": "#FFC61E",
+    "renk2": "#2b1b2e",
+    "zemin": "#fdfafc",
+    "slogan": "Vitrinde gördüğünü sor, ayırtalım.",
+    "baslik": "{{AD}} — {{SEMT}} içinde {{SEKTOR}}",
+    "alt": "{{AD}} — yeni sezon ürünler, yerinde gör, telefonla sor. Kargo yok, güven var.",
+    "cta": "Ürün sor",
+    "hizmetler": [
+      ["Yeni sezon", "Her hafta yeni ürün.", "★"],
+      ["Yerinde deneme", "Bedeni bul, al.", "◆"],
+      ["Sipariş", "Telefonla ayırt.", "✦"],
+      ["Değişim", "Aynı gün içinde.", "●"]
+    ]
+  },
+
+  "saglik": {
+    "sektorler": ["Diş Hekimi", "Eczane", "Veteriner", "Sürücü Kursu", "Fotoğrafçı",
+                  "Elektrikçi", "Tesisatçı", "Marangoz", "Fırın", "Kasap", "Diğer"],
+    "renk": "#FFC61E",
+    "renk2": "#0f2c2c",
+    "zemin": "#f8fbfb",
+    "slogan": "Sor, çekinme. Cevap hemen.",
+    "baslik": "{{AD}} — {{SEKTOR}}",
+    "alt": "{{SEMT}} içinde. Telefonla ulaş, aynı gün cevap al.",
+    "cta": "Bilgi al",
+    "hizmetler": [
+      ["Danışma", "Kısa görüşme, net bilgi.", "◆"],
+      ["Randevu", "Telefonla, aynı gün.", "✦"],
+      ["Takip", "İşlem sonrası destek.", "●"]
+    ]
+  }
+}
